@@ -8,27 +8,27 @@ Tras la obtención de los datos sobre los airbnb en Sevilla a partir de junio de
 
 Me han surgido las siguientes preguntas:
 
-1️⃣ ¿Cuál es el número total de Airbnb en Sevilla?
+✅ ¿Cuál es el número total de Airbnb en Sevilla?
 
-2️⃣ ¿Cuál es el número de propietarios de Airbnb?
+✅ ¿Cuál es el número de propietarios de Airbnb?
 
-3️⃣ ¿Cuál es el precio medio por distrito?
+✅ ¿Cuál es el precio medio por distrito?
 
-4️⃣ ¿Cuál es el precio medio por barrio?
+✅ ¿Cuál es el precio medio por barrio?
 
-5️⃣ ¿Cuáles son los distritos que reciben mayor número de reviews y por lo tanto los más visitados?
+✅ ¿Cuáles son los distritos que reciben mayor número de reviews y por lo tanto los más visitados?
 
-6️⃣ ¿Cuál es el número de Airbnb por propietario? ¿Existen muchos propietarios con más de 1 airbnb? 
+✅ ¿Cuál es el número de Airbnb por propietario? ¿Existen muchos propietarios con más de 1 airbnb? 
 
-7️⃣ ¿Cuál es el número de Airbnb por distrito?
+✅ ¿Cuál es el número de Airbnb por distrito?
 
-8️⃣ ¿Cuál es el número de Airbnb por tipo de habitación?
+✅ ¿Cuál es el número de Airbnb por tipo de habitación?
 
-9️⃣ ¿Cuál es el precio medio por tipo de habitación?
+✅ ¿Cuál es el precio medio por tipo de habitación?
 
-🔟 ¿Cuál es el precio medio por tipo de habitación y distrito?
+✅ ¿Cuál es el precio medio por tipo de habitación y distrito?
 
-1️⃣1️⃣ ¿Cuál es el promedio de disponibilidad que tienen los airbnb por distrito?
+✅ ¿Cuál es el promedio de disponibilidad que tienen los airbnb por distrito?
 
 Para la realización del análisis y la contestación de las preguntas he usado SQL. 
 
