@@ -30,9 +30,9 @@ Me han surgido las siguientes preguntas:
 
 ✅ ¿Cuál es el promedio de disponibilidad que tienen los airbnb por distrito?
 
-Para la realización del análisis y la contestación de las preguntas he usado SQL. Te comparto el enlace para ver el análisis completo 👉🏼 https://github.com/noelianav91/Airbnb_Sevilla/blob/main/airbnb_sevilla.sql
+Para la realización del análisis y la contestación de las preguntas he usado SQL. Te comparto el enlace para ver el análisis completo 👉🏼https://github.com/noelianav91/Airbnb_Sevilla/blob/main/airbnb_sevilla.sql
 
-La visualización final está realizada en Power BI que podrás ver a través de este enlace 👉🏼 
+La visualización final está realizada en Power BI que podrás ver a través de este enlace 👉🏼 https://app.powerbi.com/view?r=eyJrIjoiOWNiMzU3OTEtMzQ1Ni00MmY1LWE0MzYtYzI2YmJlNzBiMmYwIiwidCI6IjljZDI1MDk0LWE0ZTQtNDkxYi04NGFiLTUzMjZiMzVhMDA2NCIsImMiOjl9&pageName=ReportSection
 
 
 
