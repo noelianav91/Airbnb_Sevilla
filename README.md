@@ -36,4 +36,3 @@ La visualización final está realizada en Power BI que podrás ver a través de
 
 
 
-
